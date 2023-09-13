@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ludwiczer
-- 👀 I’m interested in Game Design
+- 👀 I’m currently working as a Game Designer
 - 🌱 I’m currently learning Level Design, Project Management and Unity Game Engine
 
 <!---
